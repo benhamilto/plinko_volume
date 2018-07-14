@@ -150,11 +150,4 @@ window.addEventListener('load', function () {
             Matter.World.add(world, ball);
         }
     });
-
-
-    var context = canvas.getContext("2d");
-    context.fillStyle = "blue";
-    context.font = "bold 16px Arial";
-    context.fillText("Hello World!", (canvas.width/2), (canvas.height/2));
-
 });
