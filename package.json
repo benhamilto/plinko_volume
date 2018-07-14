@@ -1,0 +1,22 @@
+{
+  "name": "plinko_volume",
+  "version": "1.0.0",
+  "description": "Pick a volume level using plinko",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benhamilto/plinko_volume.git"
+  },
+  "author": "benhamilto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benhamilto/plinko_volume/issues"
+  },
+  "homepage": "https://github.com/benhamilto/plinko_volume#readme",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  }
+}
