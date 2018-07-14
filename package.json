@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/benhamilto/plinko_volume#readme",
   "dependencies": {
+    "matter-collision-events": "^0.1.7",
     "matter-js": "^0.14.2"
   }
 }
