@@ -1,7 +1,7 @@
 # plinko_volume
 Select volume with plinko
 
-![Alt Text](https://thumbs.gfycat.com/CooperativeLavishDrafthorse-size_restricted.gif)
+![Alt Text](plinko.gif)
 
 ## Install and run
 1. clone repository
